@@ -1,0 +1,15 @@
+breakdown,category,trials,with_posted_results,pct
+screening step,All interventional AI/ML registrations,2858,143,5.0
+screening step,Status completed or terminated,960,142,14.8
+screening step,...and primary completion 12+ months ago,772,140,18.1
+screening step,...and at least one US site,295,118,40.0
+screening step,...and FDA-regulated drug or device,82,46,56.1
+overall status,COMPLETED,920,133,14.5
+overall status,RECRUITING,696,0,0.0
+overall status,NOT_YET_RECRUITING,524,0,0.0
+overall status,UNKNOWN,380,0,0.0
+overall status,ACTIVE_NOT_RECRUITING,166,1,0.6
+overall status,ENROLLING_BY_INVITATION,81,0,0.0
+overall status,WITHDRAWN,47,0,0.0
+overall status,TERMINATED,40,9,22.5
+overall status,SUSPENDED,4,0,0.0

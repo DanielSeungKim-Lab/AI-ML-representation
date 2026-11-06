@@ -1,0 +1,638 @@
+nct_id,primary_purpose,allocation,masking,phase,itype,sites,intervention_model
+NCT00872079,Health services research,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT02107976,Basic science,Non-randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT02176226,Treatment,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT02203695,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT02206984,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT02288091,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT02341807,Treatment,Non-randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT02346136,Supportive care,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT02355067,Supportive care,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT02355743,Prevention,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT02365467,Treatment,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT02390791,Health services research,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT02419131,Treatment,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT02436681,Treatment,Not applicable (single group),None (open label),NA,Device,Multiple US sites,SINGLE_GROUP
+NCT02438722,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT02447887,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT02464449,Health services research,Randomized,None (open label),NA,Behavioral,Multiple US sites,PARALLEL
+NCT02467491,Not recorded,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT02500719,Other,Non-randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT02517294,Prevention,Randomized,Masked,NA,Device,Single US site,PARALLEL
+NCT02562898,Treatment,Non-randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT02581384,Treatment,Non-randomized,None (open label),Phase 1-4,Other,Multiple US sites,SINGLE_GROUP
+NCT02612623,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT02624687,Treatment,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT02625220,Treatment,Not applicable (single group),None (open label),NA,Device,Multiple US sites,SINGLE_GROUP
+NCT02653170,Supportive care,Randomized,None (open label),NA,Other,Multiple US sites,PARALLEL
+NCT02665052,Treatment,Randomized,Masked,NA,Device,Single US site,PARALLEL
+NCT02759146,Supportive care,Randomized,Masked,NA,Other,Multiple US sites,PARALLEL
+NCT02779855,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT02783768,Other,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,CROSSOVER
+NCT02801877,Treatment,Randomized,None (open label),NA,Behavioral,Single US site,FACTORIAL
+NCT02813889,Diagnostic,Not applicable (single group),None (open label),NA,Device,Multiple US sites,SINGLE_GROUP
+NCT02815709,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT02886884,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT02909985,Diagnostic,Non-randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT02953860,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT02959671,Treatment,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT02974907,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT02988193,Treatment,Randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT02991118,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT03044314,Diagnostic,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT03050554,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT03053518,Treatment,Non-randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT03063619,Prevention,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT03064035,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT03066739,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT03116230,Treatment,Randomized,Masked,NA,Device,Single US site,CROSSOVER
+NCT03192397,Treatment,Non-randomized,None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT03221257,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT03245814,Supportive care,Non-randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT03247322,Other,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT03256578,Health services research,Randomized,Masked,NA,Device,Single US site,PARALLEL
+NCT03279250,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT03299088,Treatment,Non-randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT03302741,Treatment,Non-randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT03307967,Screening,Not applicable (single group),None (open label),NA,Behavioral,Multiple US sites,SINGLE_GROUP
+NCT03326193,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT03349476,Treatment,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT03354143,Prevention,Randomized,Masked,Phase 1-4,Other,Single US site,PARALLEL
+NCT03377803,Treatment,Randomized,Masked,Phase 1-4,Other,Multiple US sites,PARALLEL
+NCT03379740,Other,Randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT03395808,Other,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT03403400,Treatment,Randomized,None (open label),NA,Behavioral,Multiple US sites,PARALLEL
+NCT03404115,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT03412929,Treatment,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT03424681,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT03431259,Other,Randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT03442296,Other,Randomized,None (open label),NA,Device,Multiple US sites,PARALLEL
+NCT03442309,Prevention,Randomized,Masked,NA,Device,Single US site,PARALLEL
+NCT03445559,Health services research,Randomized,Masked,NA,Behavioral,Multiple US sites,CROSSOVER
+NCT03446768,Supportive care,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT03481725,Treatment,Randomized,Masked,NA,Device,Multiple US sites,PARALLEL
+NCT03482466,Treatment,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT03488472,Treatment,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT03498651,Treatment,Randomized,Masked,Phase 1-4,Behavioral,Single US site,SEQUENTIAL
+NCT03511209,Treatment,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT03529162,Treatment,Randomized,None (open label),NA,Other,Multiple US sites,PARALLEL
+NCT03531905,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,FACTORIAL
+NCT03538444,Treatment,Randomized,Masked,NA,Device,Single US site,PARALLEL
+NCT03569449,Health services research,Randomized,Masked,NA,Behavioral,Single US site,FACTORIAL
+NCT03576274,Treatment,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT03598426,Prevention,Randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT03601247,Prevention,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT03609177,Health services research,Randomized,None (open label),NA,Other,Multiple US sites,PARALLEL
+NCT03610165,Prevention,Randomized,Masked,NA,Device,Single US site,PARALLEL
+NCT03628781,Treatment,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT03665285,Treatment,Non-randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,SEQUENTIAL
+NCT03672461,Treatment,Randomized,Masked,NA,Other,Multiple US sites,PARALLEL
+NCT03705286,Prevention,Randomized,Masked,Phase 1-4,Device,Single US site,PARALLEL
+NCT03713034,Prevention,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT03715335,Screening,Randomized,None (open label),NA,Other,Multiple US sites,SEQUENTIAL
+NCT03718429,Treatment,Non-randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT03719170,Health services research,Randomized,None (open label),NA,Behavioral,Multiple US sites,PARALLEL
+NCT03722472,Prevention,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT03734536,Treatment,Non-randomized,None (open label),NA,Device,Multiple US sites,PARALLEL
+NCT03735095,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT03735420,Other,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT03739983,Supportive care,Not applicable (single group),None (open label),Phase 1-4,Device,Single US site,SINGLE_GROUP
+NCT03743402,Treatment,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT03746392,Supportive care,Randomized,Masked,NA,Behavioral,Multiple US sites,PARALLEL
+NCT03768986,Treatment,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT03785028,Basic science,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT03787134,Basic science,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT03818815,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT03832595,Treatment,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT03833804,Screening,Not applicable (single group),None (open label),NA,Other,Single US site,SEQUENTIAL
+NCT03835351,Treatment,Randomized,Masked,NA,Device,Single US site,PARALLEL
+NCT03839212,Other,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT03841669,Basic science,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT03843957,Other,Randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT03853694,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT03873987,Basic science,Randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT03876314,Basic science,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT03876873,Treatment,Randomized,Masked,NA,Device,Single US site,CROSSOVER
+NCT03899883,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT03907410,Health services research,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT03916926,Treatment,Randomized,Masked,NA,Device,Single US site,PARALLEL
+NCT03919877,Prevention,Not applicable (single group),None (open label),NA,Other,Single US site,SINGLE_GROUP
+NCT03923699,Prevention,Randomized,Masked,Phase 1-4,Device,Single US site,PARALLEL
+NCT03930238,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT03947255,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT03953976,Treatment,Not applicable (single group),None (open label),Phase 1-4,Other,Single US site,SINGLE_GROUP
+NCT03954184,Health services research,Randomized,None (open label),NA,Behavioral,Multiple US sites,PARALLEL
+NCT03954444,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT03954535,Prevention,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT03959176,Prevention,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT03960866,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT03960957,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT03979495,Screening,Randomized,None (open label),NA,Other,Multiple US sites,PARALLEL
+NCT03996603,Basic science,Non-randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT04000971,Health services research,Randomized,Masked,NA,Other,Multiple US sites,PARALLEL
+NCT04008069,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT04015440,Other,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT04026555,Prevention,Non-randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT04030130,Health services research,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT04032106,Prevention,Randomized,Masked,NA,Behavioral,Multiple US sites,PARALLEL
+NCT04043234,Supportive care,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT04084561,Prevention,Randomized,None (open label),NA,Behavioral,Multiple US sites,PARALLEL
+NCT04087291,Treatment,Randomized,Masked,NA,Other,Multiple US sites,PARALLEL
+NCT04091087,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT04093258,Treatment,Randomized,Masked,NA,Device,Multiple US sites,CROSSOVER
+NCT04098276,Prevention,Randomized,Masked,NA,Behavioral,Single US site,SEQUENTIAL
+NCT04098809,Other,Randomized,Masked,NA,Device,Single US site,PARALLEL
+NCT04102501,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT04147897,Treatment,Randomized,Masked,NA,Device,Multiple US sites,PARALLEL
+NCT04148482,Prevention,Non-randomized,Masked,NA,Other,Single US site,FACTORIAL
+NCT04177758,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT04181307,Treatment,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT04182334,Treatment,Randomized,Masked,NA,Other,Multiple US sites,PARALLEL
+NCT04184791,Treatment,Randomized,Masked,NA,Device,Single US site,SINGLE_GROUP
+NCT04191824,Treatment,Randomized,None (open label),NA,Other,Multiple US sites,PARALLEL
+NCT04192799,Health services research,Randomized,None (open label),NA,Behavioral,Multiple US sites,CROSSOVER
+NCT04196777,Health services research,Not applicable (single group),None (open label),NA,Behavioral,Multiple US sites,SINGLE_GROUP
+NCT04214249,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT04223934,Treatment,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT04226027,Other,Randomized,None (open label),NA,Behavioral,Multiple US sites,PARALLEL
+NCT04231851,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT04233034,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,FACTORIAL
+NCT04240756,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT04258020,Supportive care,Non-randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT04259788,Treatment,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT04263363,Prevention,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT04274075,Basic science,Randomized,None (open label),Phase 1-4,Drug or biological,Single US site,CROSSOVER
+NCT04276363,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT04278833,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT04283149,Treatment,Non-randomized,None (open label),NA,Device,Multiple US sites,SINGLE_GROUP
+NCT04283994,Supportive care,Randomized,Masked,NA,Behavioral,Multiple US sites,PARALLEL
+NCT04284787,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT04286529,Prevention,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT04286581,Basic science,Randomized,Masked,NA,Device,Single US site,PARALLEL
+NCT04294901,Health services research,Non-randomized,None (open label),NA,Behavioral,Multiple US sites,PARALLEL
+NCT04296396,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT04313023,Prevention,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT04313192,Treatment,Randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT04319445,Other,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT04320407,Treatment,Not applicable (single group),None (open label),NA,Device,Multiple US sites,SINGLE_GROUP
+NCT04323137,Prevention,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT04325308,Prevention,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT04332211,Prevention,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT04333199,Health services research,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT04353258,Treatment,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT04357730,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,SEQUENTIAL
+NCT04366050,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT04376034,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT04385303,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT04392167,Diagnostic,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT04393207,Other,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT04409873,Supportive care,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT04411849,Screening,Randomized,None (open label),NA,Behavioral,Multiple US sites,PARALLEL
+NCT04430335,Supportive care,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT04437615,Other,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT04438161,Prevention,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT04444518,Health services research,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT04445519,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT04446975,Other,Randomized,Masked,NA,Other,Single US site,SEQUENTIAL
+NCT04450914,Health services research,Randomized,None (open label),NA,Behavioral,Multiple US sites,CROSSOVER
+NCT04456504,Prevention,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT04461405,Health services research,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT04473326,Health services research,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT04479943,Prevention,Randomized,Masked,NA,Other,Single US site,SEQUENTIAL
+NCT04485130,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,SEQUENTIAL
+NCT04490356,Other,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT04496258,Basic science,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT04498052,Screening,Not applicable (single group),None (open label),NA,Other,Single US site,SINGLE_GROUP
+NCT04502056,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT04502563,Health services research,Randomized,Masked,NA,Other,Multiple US sites,PARALLEL
+NCT04506294,Screening,Randomized,Masked,NA,Behavioral,Multiple US sites,PARALLEL
+NCT04507360,Health services research,Randomized,Masked,NA,Behavioral,Multiple US sites,SEQUENTIAL
+NCT04514484,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT04516252,Other,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT04524104,Treatment,Randomized,Masked,NA,Behavioral,Multiple US sites,PARALLEL
+NCT04525131,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT04536701,Other,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT04545593,Treatment,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT04549545,Treatment,Randomized,Masked,NA,Device,Multiple US sites,CROSSOVER
+NCT04560335,Health services research,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT04565353,Health services research,Randomized,Masked,NA,Behavioral,Multiple US sites,PARALLEL
+NCT04569786,Prevention,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,SEQUENTIAL
+NCT04573972,Basic science,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT04577573,Other,Non-randomized,Masked,NA,Device,Single US site,CROSSOVER
+NCT04581863,Supportive care,Randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT04583618,Prevention,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT04584645,Prevention,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT04589832,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT04591171,Treatment,Not applicable (single group),None (open label),NA,Other,Single US site,SINGLE_GROUP
+NCT04591353,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT04592978,Treatment,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT04594733,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,CROSSOVER
+NCT04599075,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT04599855,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT04605484,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT04607733,Basic science,Randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT04611880,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT04612868,Diagnostic,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT04613739,Health services research,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT04619680,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT04620213,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT04622969,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT04639947,Diagnostic,Non-randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT04643067,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,SEQUENTIAL
+NCT04643782,Diagnostic,Not applicable (single group),None (open label),NA,Device,Multiple US sites,SINGLE_GROUP
+NCT04644796,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT04645797,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SEQUENTIAL
+NCT04656990,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT04663802,Health services research,Randomized,Masked,NA,Behavioral,Multiple US sites,CROSSOVER
+NCT04678115,Treatment,Randomized,Masked,NA,Device,Single US site,CROSSOVER
+NCT04679051,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,CROSSOVER
+NCT04689867,Treatment,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT04690413,Diagnostic,Not applicable (single group),None (open label),NA,Device,Multiple US sites,SINGLE_GROUP
+NCT04701762,Other,Randomized,None (open label),NA,Device,Single US site,CROSSOVER
+NCT04711837,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT04713098,Treatment,Randomized,Masked,NA,Device,Multiple US sites,PARALLEL
+NCT04719390,Prevention,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT04720625,Prevention,Randomized,Masked,NA,Behavioral,Multiple US sites,PARALLEL
+NCT04723576,Health services research,Randomized,Masked,NA,Behavioral,Multiple US sites,PARALLEL
+NCT04724694,Treatment,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT04734197,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT04737109,Treatment,Non-randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,SEQUENTIAL
+NCT04739722,Diagnostic,Not applicable (single group),None (open label),NA,Other,Multiple US sites,SINGLE_GROUP
+NCT04739982,Other,Randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT04747314,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,SEQUENTIAL
+NCT04763044,Other,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,CROSSOVER
+NCT04764539,Treatment,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT04765735,Treatment,Randomized,Masked,NA,Device,Multiple US sites,CROSSOVER
+NCT04766996,Treatment,Non-randomized,None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT04769466,Supportive care,Non-randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT04773158,Health services research,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT04786067,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT04789499,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT04797390,Treatment,Randomized,Masked,NA,Device,Multiple US sites,PARALLEL
+NCT04799158,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT04802720,Supportive care,Randomized,None (open label),NA,Other,Multiple US sites,PARALLEL
+NCT04808141,Treatment,Randomized,Masked,NA,Device,Single US site,PARALLEL
+NCT04810481,Health services research,Randomized,Masked,NA,Device,Multiple US sites,PARALLEL
+NCT04810689,Other,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT04815083,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,SEQUENTIAL
+NCT04817891,Treatment,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT04827212,Prevention,Randomized,Masked,Phase 1-4,Behavioral,Single US site,PARALLEL
+NCT04831736,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT04839562,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT04839978,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT04844021,Health services research,Randomized,None (open label),NA,Behavioral,Multiple US sites,PARALLEL
+NCT04847050,Prevention,Non-randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT04855357,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT04857060,Health services research,Randomized,Masked,NA,Behavioral,Multiple US sites,PARALLEL
+NCT04866771,Treatment,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT04867850,Health services research,Randomized,Masked,NA,Other,Single US site,FACTORIAL
+NCT04868123,Treatment,Randomized,Masked,NA,Device,Multiple US sites,PARALLEL
+NCT04870957,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,SEQUENTIAL
+NCT04874194,Treatment,Non-randomized,None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT04877535,Other,Non-randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT04881162,Treatment,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT04881799,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,SEQUENTIAL
+NCT04882501,Treatment,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT04885062,Diagnostic,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT04888494,Other,Randomized,Masked,NA,Device,Single US site,CROSSOVER
+NCT04890054,Screening,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT04905082,Supportive care,Randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT04907045,Health services research,Non-randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT04909853,Basic science,Non-randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT04910152,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT04910867,Health services research,Non-randomized,None (open label),NA,Behavioral,Multiple US sites,SEQUENTIAL
+NCT04912583,Treatment,Randomized,Masked,NA,Device,Multiple US sites,PARALLEL
+NCT04918381,Treatment,Not applicable (single group),None (open label),NA,Device,Multiple US sites,SINGLE_GROUP
+NCT04933617,Treatment,Non-randomized,None (open label),Phase 1-4,Drug or biological,Single US site,SEQUENTIAL
+NCT04938232,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT04941456,Treatment,Non-randomized,None (open label),NA,Device,Single US site,CROSSOVER
+NCT04941950,Prevention,Randomized,Masked,NA,Behavioral,Multiple US sites,PARALLEL
+NCT04948268,Treatment,Randomized,None (open label),NA,Behavioral,Single US site,SEQUENTIAL
+NCT04950686,Prevention,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT04953728,Treatment,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT04955730,Supportive care,Randomized,Masked,Phase 1-4,Device,Single US site,PARALLEL
+NCT04963062,Treatment,Randomized,Masked,Phase 1-4,Device,Single US site,PARALLEL
+NCT04965181,Treatment,Randomized,Masked,NA,Drug or biological,Single US site,PARALLEL
+NCT04969289,Prevention,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT04975191,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT04977037,Treatment,Randomized,Masked,NA,Device,Single US site,PARALLEL
+NCT04978090,Prevention,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT04981392,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT04982445,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT04985773,Treatment,Not applicable (single group),None (open label),NA,Device,Multiple US sites,SINGLE_GROUP
+NCT04986904,Treatment,Not applicable (single group),None (open label),NA,Behavioral,Multiple US sites,SINGLE_GROUP
+NCT04992520,Basic science,Non-randomized,None (open label),Phase 1-4,Drug or biological,Single US site,CROSSOVER
+NCT04993287,Health services research,Not applicable (single group),None (open label),NA,Other,Single US site,SINGLE_GROUP
+NCT04993781,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT05009251,Prevention,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT05010018,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT05012163,Prevention,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT05012579,Treatment,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05013762,Treatment,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT05017272,Health services research,Non-randomized,None (open label),NA,Other,Single US site,SEQUENTIAL
+NCT05018091,Prevention,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT05022472,Health services research,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT05023252,Health services research,Not applicable (single group),None (open label),NA,Other,Single US site,SINGLE_GROUP
+NCT05025332,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT05028790,Other,Randomized,Masked,NA,Device,Single US site,CROSSOVER
+NCT05030233,Supportive care,Randomized,None (open label),NA,Behavioral,Single US site,CROSSOVER
+NCT05030454,Treatment,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05036083,Diagnostic,Not applicable (single group),None (open label),NA,Drug or biological,Single US site,SINGLE_GROUP
+NCT05036278,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT05038566,Other,Randomized,None (open label),NA,Device,Multiple US sites,CROSSOVER
+NCT05046886,Treatment,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT05048329,Other,Not applicable (single group),None (open label),NA,Other,Multiple US sites,SINGLE_GROUP
+NCT05050448,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT05051982,Other,Randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT05052190,Health services research,Randomized,Masked,NA,Behavioral,Single US site,FACTORIAL
+NCT05053087,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05056376,Prevention,Randomized,None (open label),NA,Behavioral,Multiple US sites,PARALLEL
+NCT05060003,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05061992,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05068752,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT05069155,Health services research,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT05079477,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT05081011,Treatment,Randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT05085327,Treatment,Randomized,Masked,NA,Drug or biological,Single US site,PARALLEL
+NCT05085405,Health services research,Randomized,None (open label),NA,Behavioral,Single US site,FACTORIAL
+NCT05086796,Treatment,Randomized,None (open label),NA,Behavioral,Multiple US sites,PARALLEL
+NCT05087524,Diagnostic,Not applicable (single group),None (open label),NA,Other,Single US site,SINGLE_GROUP
+NCT05087875,Treatment,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT05089019,Basic science,Randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,CROSSOVER
+NCT05091918,Diagnostic,Not applicable (single group),None (open label),NA,Device,Multiple US sites,SINGLE_GROUP
+NCT05094271,Treatment,Randomized,Masked,Phase 1-4,Device,Single US site,CROSSOVER
+NCT05096429,Health services research,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT05098509,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT05111002,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05112900,Screening,Randomized,None (open label),Phase 1-4,Behavioral,Single US site,PARALLEL
+NCT05114460,Basic science,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,SEQUENTIAL
+NCT05114564,Treatment,Randomized,Masked,NA,Device,Multiple US sites,CROSSOVER
+NCT05120115,Basic science,Not applicable (single group),None (open label),NA,Other,Single US site,SINGLE_GROUP
+NCT05124899,Treatment,Randomized,Masked,NA,Drug or biological,Single US site,PARALLEL
+NCT05127044,Basic science,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05127837,Treatment,Randomized,None (open label),NA,Behavioral,Multiple US sites,PARALLEL
+NCT05129488,Treatment,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05129501,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT05130255,Treatment,Non-randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,SEQUENTIAL
+NCT05132699,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05133739,Treatment,Randomized,Masked,NA,Device,Single US site,PARALLEL
+NCT05135533,Treatment,Randomized,Masked,NA,Device,Single US site,PARALLEL
+NCT05136339,Supportive care,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT05139238,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Single US site,CROSSOVER
+NCT05142241,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT05143047,Health services research,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT05143801,Health services research,Randomized,None (open label),NA,Device,Single US site,SEQUENTIAL
+NCT05145322,Basic science,Randomized,Masked,NA,Device,Single US site,PARALLEL
+NCT05147428,Health services research,Randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT05164120,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT05171673,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT05175170,Supportive care,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT05178121,Prevention,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT05179837,Diagnostic,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05180487,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT05181020,Supportive care,Non-randomized,None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT05188248,Treatment,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05188261,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,SEQUENTIAL
+NCT05192889,Treatment,Non-randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,SEQUENTIAL
+NCT05194722,Treatment,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT05197829,Health services research,Randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT05203471,Health services research,Non-randomized,None (open label),NA,Other,Single US site,SEQUENTIAL
+NCT05206370,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT05214131,Treatment,Randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT05216380,Health services research,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT05227300,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05227612,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT05231954,Screening,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT05233761,Basic science,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,CROSSOVER
+NCT05244226,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05272189,Basic science,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT05279131,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT05283135,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05288023,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05288348,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05289570,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT05292248,Treatment,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT05293392,Health services research,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT05295849,Other,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT05301478,Other,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05305443,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,SEQUENTIAL
+NCT05308004,Supportive care,Non-randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT05312385,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT05316597,Prevention,Randomized,Masked,NA,Behavioral,Single US site,CROSSOVER
+NCT05317312,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05320406,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT05321784,Screening,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05329493,Treatment,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05330611,Treatment,Randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT05336123,Treatment,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT05343585,Other,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05344443,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05352399,Supportive care,Not applicable (single group),None (open label),NA,Other,Single US site,SINGLE_GROUP
+NCT05354206,Basic science,Non-randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT05365997,Health services research,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT05377411,Treatment,Randomized,Masked,NA,Device,Single US site,FACTORIAL
+NCT05381454,Prevention,Non-randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05386030,Treatment,Randomized,Masked,Phase 1-4,Other,Multiple US sites,PARALLEL
+NCT05386849,Other,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05391438,Other,Not applicable (single group),None (open label),NA,Other,Single US site,SINGLE_GROUP
+NCT05392192,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,CROSSOVER
+NCT05417282,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT05423743,Other,Randomized,None (open label),NA,Other,Multiple US sites,PARALLEL
+NCT05436262,Basic science,Randomized,None (open label),NA,Device,Single US site,FACTORIAL
+NCT05448105,Health services research,Not applicable (single group),None (open label),NA,Other,Multiple US sites,SINGLE_GROUP
+NCT05453110,Treatment,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT05453773,Other,Randomized,Masked,NA,Behavioral,Single US site,FACTORIAL
+NCT05454007,Treatment,Non-randomized,None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT05465382,Prevention,Randomized,Masked,NA,Drug or biological,Single US site,PARALLEL
+NCT05480124,Treatment,Randomized,Masked,NA,Device,Single US site,CROSSOVER
+NCT05483686,Prevention,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT05487625,Basic science,Randomized,Masked,NA,Behavioral,Single US site,CROSSOVER
+NCT05492786,Prevention,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT05496465,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,CROSSOVER
+NCT05497557,Basic science,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT05501600,Basic science,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT05509218,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT05515198,Treatment,Non-randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT05515679,Treatment,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT05516108,Basic science,Randomized,Masked,Phase 1-4,Behavioral,Single US site,PARALLEL
+NCT05516147,Treatment,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT05523154,Supportive care,Randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT05523973,Treatment,Not applicable (single group),None (open label),NA,Other,Single US site,SINGLE_GROUP
+NCT05528380,Treatment,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT05529173,Prevention,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05536739,Basic science,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05537792,Basic science,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05570630,Health services research,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT05572684,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT05575063,Treatment,Randomized,Masked,NA,Device,Multiple US sites,PARALLEL
+NCT05579600,Health services research,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT05583903,Other,Non-randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT05584189,Diagnostic,Non-randomized,None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05586490,Treatment,Randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT05593510,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,FACTORIAL
+NCT05595629,Prevention,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT05603923,Treatment,Randomized,Masked,NA,Behavioral,Multiple US sites,PARALLEL
+NCT05604508,Prevention,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT05607147,Other,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05621252,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05630885,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT05636332,Diagnostic,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT05637970,Treatment,Randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT05644730,Treatment,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05662852,Basic science,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT05670236,Other,Non-randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05671653,Basic science,Non-randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05674136,Other,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05676294,Supportive care,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05686408,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT05692960,Supportive care,Randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT05711524,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT05714644,Screening,Randomized,Masked,NA,Other,Multiple US sites,PARALLEL
+NCT05723822,Supportive care,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05742841,Prevention,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT05747027,Treatment,Randomized,None (open label),NA,Other,Multiple US sites,PARALLEL
+NCT05753449,Treatment,Randomized,Masked,NA,Device,Single US site,CROSSOVER
+NCT05753904,Treatment,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT05758441,Prevention,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT05765253,Treatment,Randomized,None (open label),NA,Device,Multiple US sites,PARALLEL
+NCT05766787,Treatment,Randomized,Masked,NA,Device,Multiple US sites,CROSSOVER
+NCT05772702,Treatment,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05777187,Prevention,Randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT05785390,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT05789875,Supportive care,Not applicable (single group),None (open label),NA,Other,Single US site,SINGLE_GROUP
+NCT05797974,Treatment,Non-randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT05815017,Prevention,Randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT05816473,Health services research,Not applicable (single group),None (open label),NA,Other,Single US site,PARALLEL
+NCT05823948,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT05824091,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,SEQUENTIAL
+NCT05825404,Treatment,Randomized,Masked,NA,Device,Multiple US sites,CROSSOVER
+NCT05826431,Supportive care,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05827068,Prevention,Randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT05827094,Supportive care,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT05827978,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT05829759,Supportive care,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT05834036,Basic science,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT05835362,Health services research,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT05836818,Health services research,Randomized,Masked,NA,Other,Multiple US sites,PARALLEL
+NCT05838456,Diagnostic,Randomized,None (open label),NA,Device,Single US site,CROSSOVER
+NCT05842434,Treatment,Non-randomized,None (open label),NA,Device,Multiple US sites,SINGLE_GROUP
+NCT05842967,Prevention,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT05847153,Health services research,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT05860127,Health services research,Randomized,None (open label),NA,Behavioral,Multiple US sites,PARALLEL
+NCT05862467,Treatment,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT05878457,Other,Not applicable (single group),None (open label),Phase 1-4,Device,Single US site,SINGLE_GROUP
+NCT05882318,Treatment,Randomized,Masked,NA,Device,Multiple US sites,PARALLEL
+NCT05890105,Basic science,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,CROSSOVER
+NCT05903547,Treatment,Randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT05904769,Health services research,Non-randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT05905250,Supportive care,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT05910658,Prevention,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT05910775,Other,Not applicable (single group),Masked,NA,Behavioral,Single US site,PARALLEL
+NCT05918055,Treatment,Non-randomized,None (open label),Phase 1-4,Drug or biological,Single US site,SEQUENTIAL
+NCT05926648,Other,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT05956886,Treatment,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT05958303,Basic science,Randomized,Masked,NA,Other,Single US site,CROSSOVER
+NCT05966155,Treatment,Randomized,None (open label),NA,Other,Multiple US sites,PARALLEL
+NCT05966506,Prevention,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT05967260,Treatment,Randomized,None (open label),NA,Device,Single US site,CROSSOVER
+NCT05973981,Prevention,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT05980299,Supportive care,Not applicable (single group),None (open label),NA,Behavioral,Multiple US sites,SINGLE_GROUP
+NCT05981508,Treatment,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT05990075,Health services research,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT05993832,Basic science,Not applicable (single group),None (open label),NA,Other,Single US site,SINGLE_GROUP
+NCT06000007,Treatment,Randomized,None (open label),Phase 1-4,Device,Single US site,PARALLEL
+NCT06001762,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT06001866,Basic science,Non-randomized,None (open label),NA,Behavioral,Single US site,FACTORIAL
+NCT06003075,Treatment,Non-randomized,None (open label),Phase 1-4,Drug or biological,Single US site,SEQUENTIAL
+NCT06007664,Health services research,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT06017089,Treatment,Not applicable (single group),None (open label),NA,Device,Multiple US sites,SINGLE_GROUP
+NCT06019559,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT06033261,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT06057727,Health services research,Randomized,Masked,NA,Behavioral,Multiple US sites,PARALLEL
+NCT06059066,Treatment,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT06062264,Health services research,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT06062433,Supportive care,Randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT06066541,Health services research,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT06068894,Basic science,Randomized,Masked,NA,Other,Single US site,PARALLEL
+NCT06071104,Treatment,Not applicable (single group),None (open label),NA,Device,Multiple US sites,SINGLE_GROUP
+NCT06087328,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT06091956,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT06099223,Supportive care,Randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT06099886,Treatment,Not applicable (single group),None (open label),Phase 1-4,Other,Single US site,SINGLE_GROUP
+NCT06112249,Prevention,Randomized,Masked,NA,Behavioral,Multiple US sites,PARALLEL
+NCT06120777,Other,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT06122935,Other,Randomized,Masked,NA,Device,Multiple US sites,PARALLEL
+NCT06133816,Health services research,Randomized,Masked,NA,Behavioral,Single US site,FACTORIAL
+NCT06137703,Basic science,Randomized,None (open label),Phase 1-4,Drug or biological,Single US site,CROSSOVER
+NCT06155695,Treatment,Randomized,Masked,NA,Device,Single US site,PARALLEL
+NCT06162663,Other,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT06164106,Prevention,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT06177795,Health services research,Randomized,Masked,NA,Behavioral,Multiple US sites,PARALLEL
+NCT06178991,Prevention,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT06181227,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT06214455,Treatment,Randomized,Masked,NA,Other,Multiple US sites,CROSSOVER
+NCT06218823,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT06219681,Basic science,Randomized,Masked,NA,Behavioral,Single US site,PARALLEL
+NCT06232317,Other,Randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT06236516,Treatment,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT06239792,Treatment,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT06240091,Other,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT06243835,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT06245044,Other,Randomized,None (open label),NA,Behavioral,Single US site,CROSSOVER
+NCT06262347,Treatment,Randomized,None (open label),NA,Behavioral,Multiple US sites,PARALLEL
+NCT06269003,Health services research,Randomized,None (open label),NA,Other,Single US site,FACTORIAL
+NCT06272370,Health services research,Randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT06290089,Other,Not applicable (single group),None (open label),NA,Other,Single US site,SINGLE_GROUP
+NCT06294145,Basic science,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT06309953,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT06311292,Other,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT06317844,Basic science,Randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT06319170,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT06334055,Other,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT06349759,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT06377488,Treatment,Not applicable (single group),None (open label),NA,Device,Multiple US sites,SINGLE_GROUP
+NCT06387472,Screening,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT06403098,Basic science,Randomized,Masked,NA,Device,Single US site,CROSSOVER
+NCT06405893,Basic science,Randomized,Masked,NA,Behavioral,Single US site,FACTORIAL
+NCT06410612,Supportive care,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT06411613,Health services research,Randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT06415305,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Single US site,SINGLE_GROUP
+NCT06420232,Other,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT06450405,Basic science,Non-randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT06455111,Health services research,Randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT06455930,Treatment,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT06469372,Diagnostic,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT06472297,Prevention,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT06477913,Other,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT06479980,Treatment,Not applicable (single group),None (open label),NA,Behavioral,Single US site,SINGLE_GROUP
+NCT06481579,Other,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT06507566,Other,Randomized,Masked,NA,Device,Single US site,PARALLEL
+NCT06509373,Health services research,Non-randomized,None (open label),NA,Behavioral,Single US site,PARALLEL
+NCT06572449,Treatment,Non-randomized,None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT06580912,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT06597747,Treatment,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT06602804,Other,Not applicable (single group),None (open label),NA,Device,Multiple US sites,SINGLE_GROUP
+NCT06630325,Treatment,Non-randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT06637774,Screening,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT06637878,Basic science,Non-randomized,None (open label),NA,Device,Multiple US sites,PARALLEL
+NCT06652568,Diagnostic,Not applicable (single group),None (open label),NA,Device,Multiple US sites,SINGLE_GROUP
+NCT06654089,Other,Randomized,Masked,Phase 1-4,Other,Single US site,PARALLEL
+NCT06712836,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT06716645,Treatment,Randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT06717399,Treatment,Not applicable (single group),None (open label),NA,Other,Single US site,SINGLE_GROUP
+NCT06720714,Treatment,Not applicable (single group),None (open label),Phase 1-4,Drug or biological,Multiple US sites,SINGLE_GROUP
+NCT06728059,Treatment,Randomized,None (open label),NA,Device,Single US site,CROSSOVER
+NCT06792890,Health services research,Randomized,Masked,NA,Other,Single US site,SINGLE_GROUP
+NCT06815562,Health services research,Randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT06815601,Treatment,Randomized,Masked,NA,Behavioral,Single US site,CROSSOVER
+NCT06854952,Treatment,Randomized,Masked,Phase 1-4,Drug or biological,Multiple US sites,PARALLEL
+NCT06899737,Supportive care,Randomized,None (open label),NA,Other,Single US site,PARALLEL
+NCT06911242,Basic science,Randomized,None (open label),Phase 1-4,Drug or biological,Single US site,CROSSOVER
+NCT06916468,Supportive care,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
+NCT06928467,Health services research,Randomized,Masked,NA,Behavioral,Multiple US sites,PARALLEL
+NCT06935266,Other,Randomized,None (open label),Phase 1-4,Drug or biological,Single US site,PARALLEL
+NCT06967129,Treatment,Randomized,Masked,NA,Device,Multiple US sites,CROSSOVER
+NCT06983938,Other,Randomized,None (open label),NA,Device,Single US site,PARALLEL
+NCT06995014,Basic science,Non-randomized,None (open label),NA,Behavioral,Single US site,FACTORIAL
+NCT07205367,Other,Non-randomized,None (open label),NA,Device,Multiple US sites,SINGLE_GROUP
+NCT07216274,Screening,Not applicable (single group),None (open label),NA,Device,Single US site,SINGLE_GROUP
